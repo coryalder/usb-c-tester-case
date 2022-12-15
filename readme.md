@@ -47,3 +47,7 @@ Put the board in, place the back end (USB Type-B / micro / USB-C / mini) down fi
 Once the board is in place, slide the plexyglass/acrylic top panel in from the front end.
 
 If you have a screw hole / screw tower, screw it in and pray it doesn't snap off! :)
+
+# Fusion 360 project files
+
+If you want the original fusion 360 project, shoot me a message and I can share it with you - it's parametric and pretty modifyable.
