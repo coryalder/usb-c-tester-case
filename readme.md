@@ -4,9 +4,15 @@
 
 [USB C Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - [original Twitter thread descibing the tester](https://twitter.com/alvaroprieto/status/1594036248481771520)
 
-![model with screw tower](images/left.jpg)
+Test print front view:
 
-![model with screw tower](images/right.jpg)
+![front view of the case](images/left.jpg)
+
+Test print back view:
+
+![back view of the case](images/right.jpg)
+
+## Screw tower issue
 
 There are two versions of this design - one with a small tower to screw into to attach the acrylic top plate - and one without.
 
@@ -21,4 +27,20 @@ The reason for that is that the tower is VERY delicate, and I wasn't able to scr
 
 The screw hole is for an M3 screw, and the depth is 5mm so ideally a use a screw less than 7mm long (3mm for the plexy, 4mm into the tower).
 
+## Printing it:
+
+You'll want supports for at least the back ports (see second test-print image). The USB-C on the front can probably be printed without supports.
+
+Printing time, at low quality, was about 1.5hrs for me.
+
+## Cutting the top panel:
+
 The plexy top panel should be cut from 2.9mm acrylic.
+
+## Assembling:
+
+Put the board in, place the back end (USB Type-B / micro / USB-C / mini) down first then drop the front end (usb-a / usb-c) in into the peg/screw tower. Press the board down past the four clasps on the side-walls - this might need a bit of force.
+
+Once the board is in place, slide the plexyglass/acrylic top panel in from the front end.
+
+If you have a screw hole / screw tower, screw it in and pray it doesn't snap off! :)
