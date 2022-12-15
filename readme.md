@@ -50,4 +50,7 @@ If you have a screw hole / screw tower, screw it in and pray it doesn't snap off
 
 # Fusion 360 project files
 
-If you want the original fusion 360 project, shoot me a message and I can share it with you - it's parametric and pretty modifyable.
+The fusion project file is located in case-without-screw-tower/usb-c-tester-case-screw-v13.f3z
+
+I think that file should have the version history included, so you can jump back to v9 for the case-with-screw-tower version - or just edit the screw tower extrusion step (Extrude 17) to go up to the underside of the plexi body, and then cut a hole in it 5mm down using the "screw-rod-hole" sketch.
+ 
