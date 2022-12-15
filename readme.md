@@ -2,6 +2,8 @@
 
 ## A 3d printable case for Alvaro Prieto's USB C Cable Tester
 
+(also requires a laser cutter for the acrylic top panel)
+
 [USB C Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - [original Twitter thread descibing the tester](https://twitter.com/alvaroprieto/status/1594036248481771520)
 
 Test print front view:
