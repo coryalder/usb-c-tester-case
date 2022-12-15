@@ -21,6 +21,7 @@ With screw tower:
 ![model with screw tower](images/tower.png)
 
 Without screw tower:
+
 ![](images/no-tower.png)
 
 The reason for that is that the tower is VERY delicate, and I wasn't able to screw into it without it snapping off. On my print, the acrylic top plate friction-fits perfectly, but your mileage may vary. Both models are provided in case you want to try your luck with the screw mount (try heating up the tower before screwing in the first time) or need one that will stay together even if dropped.
