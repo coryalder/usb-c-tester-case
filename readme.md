@@ -14,7 +14,7 @@ Print settings from my friend are quoted below in the "Printing it" section
 
 ## Screw tower
 
-The prints you see above had a screw mount and a hole in the plexi top panel to screw it in. A few different people have printed this on a few different printers, and the screw does not seem necessary - the plexi friction fits in perfectly. This is good, because the screw tower has snapped off on every case I've printed. It's just too small to both fit thru the PCB and not break off. The screw tower version of the model is included, but *not* recommended.
+The prints you see above had a screw mount and a hole in the plexi top panel to screw it in. A few different people have printed this on a few different printers, and the screw does not seem necessary - the plexi friction fits in perfectly. This is good, because the screw tower has snapped off on every case I've printed. It's just too small to both fit thru the PCB and not break off. **The screw tower version of the model is included, but *not* recommended.**
 
 With screw tower:
 
