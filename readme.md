@@ -6,17 +6,15 @@
 
 [USB C Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - [original Twitter thread descibing the tester](https://twitter.com/alvaroprieto/status/1594036248481771520)
 
-Test print front view:
+The red print in the front is a beautiful print done by my friend Janet. The white print in the back is my low quality print.
 
-![front view of the case](images/left.jpg)
+![front view of the case](images/two_cases.jpg)
 
-Test print back view:
+Print settings from my friend are quoted below in the "Printing it" section
 
-![back view of the case](images/right.jpg)
+## Screw tower
 
-## Screw tower issue
-
-There are two versions of this design - one with a small tower to screw into to attach the acrylic top plate - and one without.
+The prints you see above had a screw mount and a hole in the plexi top panel to screw it in. A few different people have printed this on a few different printers, and the screw does not seem necessary - the plexi friction fits in perfectly. This is good, because the screw tower has snapped off on every case I've printed. It's just too small to both fit thru the PCB and not break off. The screw tower version of the model is included, but *not* recommended.
 
 With screw tower:
 
@@ -26,15 +24,15 @@ Without screw tower:
 
 ![](images/no-tower.png)
 
-The reason for that is that the tower is VERY delicate, and I wasn't able to screw into it without it snapping off. On my print, the acrylic top plate friction-fits perfectly, but your mileage may vary. Both models are provided in case you want to try your luck with the screw mount (try heating up the tower before screwing in the first time) or need one that will stay together even if dropped.
-
-The screw hole is for an M3 screw, and the depth is 5mm so ideally a use a screw less than 7mm long (3mm for the plexy, 4mm into the tower).
+The screw hole is for an M3 screw, and the depth is 5mm so ideally a use a screw less than 7mm long (3mm for the plexy, 4mm into the tower). You might have success if you heat the tower up with a hair dryer or heat gun first.
 
 ## Printing it:
 
-You'll want supports for at least the back ports (see second test-print image). The USB-C on the front can probably be printed without supports.
+Settings used for the red print:
 
-Printing time, at low quality, was about 1.5hrs for me.
+> I used .2 line height, 25% pla with supports, 215 nozzle, 60 bed, 50mm/s, on a ender3v2. Took about 3 and half hours. Friction fit is great and the board is held in there nicely.
+
+For my much crappier white print, I included supports for only the ports on the back (the side with 4 ports). Printing time, at low quality, was about 1.5hrs on a Prusa clone.
 
 ## Cutting the top panel:
 
